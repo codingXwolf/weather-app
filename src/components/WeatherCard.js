@@ -11,9 +11,7 @@ class WeatherCard extends React.Component {
     render() {
         return (
             <div>
-                <Card>
-                    {WiDayHaze}
-                </Card>
+                <WiDayHaze />
             </div>
         )
     };

@@ -1,6 +1,6 @@
 import React from 'react';
 import WeatherCard from './components/WeatherCard';
-import { Header, Button } from 'semantic-ui-react';
+import { Header } from 'semantic-ui-react';
 
 function App() {
   return (
