@@ -9,6 +9,7 @@ class WeatherCard extends React.Component {
     };
 
     render() {
+
         return (
             <div>
                 <WiDayHaze />
